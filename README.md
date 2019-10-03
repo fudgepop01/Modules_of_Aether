@@ -1,4 +1,4 @@
-# ~Modules of Aether~
+# \~Modules of Aether\~
 
 ## What is it?
 
@@ -120,7 +120,6 @@ if there are any bugs that come up.
 ## Obligatory buy me a coffee section :^)
 
 #### If you like what I do, I do have a patreon page **[riiight here](https://www.patreon.com/fudgepop01)**
-<a href="https://www.patreon.com/bePatron?u=21666586" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 No worries though! I'll definitely keep-on coding simply because it's what I love doing!
 Soon:tm: I'll also be releasing an early version of the hitbox tool I've been developing for
